@@ -12,4 +12,5 @@ virtualZen:
   initialization sequence, and from there on encoder counts for the z-axis DC motor are used.
   
   *Note*: Absolute zero button must be pre-configured to the range of the scissor lift.
+  
   *Note*: viaremote.h is remote specific - new values must be mapped for new IR remotes. 
