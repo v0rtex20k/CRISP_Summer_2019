@@ -4,8 +4,7 @@ Arduino code for the mobile manipulator in the CRISP Lab at Tufts University. Wr
 Descriptions:
 
 OSIRIS_sweep:
-  OSIRIS for user session on 10/22/19 - IR speed control and serial input directional control with bi-directional homing    
-  function.
+  OSIRIS for user session on 10/22/19 - IR speed control and serial input directional control with bi-directional homing    function.
 
 virtualZen: 
   Positions the platform of the mobile manipulator based on dead reckoning. A button (absolute zero) is hit during the 
