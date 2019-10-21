@@ -1,4 +1,4 @@
-# CRISP_Summer_2019
+# CRISP Lab Summer 2019
 Arduino code for the mobile manipulator in the CRISP Lab at Tufts University. Written by Victor Arsenescu under the supervision of Professor Messner, Professor Bedell, and Professor Panetta. 
 
 Descriptions:
